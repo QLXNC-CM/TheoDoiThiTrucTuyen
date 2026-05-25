@@ -12,6 +12,8 @@ docs/ASSUMPTIONS.md
 docs/SECURITY_NOTES.md
 docs/FREE_TIER_NOTES.md
 docs/NEXT_STEPS.md
+docs/BAN_CHOT_L1.md
+docs/BIEN_BAN_BAN_GIAO_L1.md
 supabase/migrations/0001_schema.sql
 supabase/migrations/0002_rls.sql
 supabase/migrations/0003_storage.sql
